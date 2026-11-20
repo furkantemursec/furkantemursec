@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Furkan Temür 👋
 
-<!--
-**furkantemursec/furkantemursec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Cloud Security Engineer & DevSecOps Practitioner** documenting my journey from zero to building secure, automated cloud infrastructures.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus (2026 - 2027 Roadmap)
+- 🐧 **Linux & System Administration:** Mastering the command line, permissions, and Bash scripting.
+- 🌐 **Networking Fundamentals:** Deep diving into TCP/IP, DNS, HTTP/S, VPNs, and firewalls.
+- 🐍 **Python for Security:** Writing automation scripts and log analysis tools.
+- ☁️ **Next Up:** AWS Cloud Architecture, Terraform (IaC), and Kubernetes Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Repositories
+- `cloud-security-journey` — My daily notes, lab write-ups, and architecture diagrams.
+
+### 📫 Connect With Me
+- **Email:** furkantemur.sec@gmail.com
+- **YouTube:** Coming Soon (Launching Mid-2027)
